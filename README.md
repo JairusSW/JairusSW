@@ -1,4 +1,4 @@
-Hello! I'm a self-taught kid developer who started at 9. I'm passionate about simplistic code, performance, and teaching other kids. Haha, i'm done! 😀
+Hello! I'm a self-taught kid developer who started at 9. I'm passionate about simplistic code, performance, and teaching other kids. I code in AssemblyScript, Type/JavaScript, NodeJS, and some C++. I'm also learning Go and Nim at the moment.
 <br>
 <br>
 ...
