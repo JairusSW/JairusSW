@@ -35,7 +35,7 @@
 <img src=https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg alt=sequelize width="30" height="30"/>
 <img src=https://avatars.githubusercontent.com/u/983194?s=200&v=4 alt=replit width="30" height="30"/>
 <img src=https://avatars.githubusercontent.com/u/24939410?s=200&v=4 alt=fastify width="30" height="30"/>
-<img src=github alt=https://avatars.githubusercontent.com/u/9919?s=200&v=4 width="30" height="30"/>
+<img src=https://avatars.githubusercontent.com/u/9919?s=200&v=4 alt=github width="30" height="30"/>
 </p>
 
 <hr>
