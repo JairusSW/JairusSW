@@ -43,7 +43,7 @@
 <img src=https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg alt=arduino width="30" height="30"/>
 <img src=https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg alt=csharp width="30" height="30"/>
 <img src=https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg alt=java width="30" height="30"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/rust/rust-plain.svg alt=rust style="background-color: rgb(255, 255, 255);" width="30" height="30"/>
+<img src=https://raw.githubusercontent.com/JairusSW/JairusSW/main/img/rust.svg alt=rust width="30" height="30"/>
 <img src=https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg alt=socketio width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/wasmerio/vscode-wasm/008e8f5a33c4dc1444d062bdfc124813f6acbaf4/images/vscode-wasm-logo.svg alt=wat width="30" height="30"/>
 </p>
