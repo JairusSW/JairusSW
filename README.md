@@ -25,6 +25,7 @@
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="30" height="30"/>
 <img src=https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg alt=heroku width="30" height="30"/>
 <img src=https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg alt=html5 width="30" height="30"/>
+<img src=https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg alt=css3 width="30" height="30"/>
 <img src=https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg alt=npm width="30" height="30"/>
 <img src=https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg alt=typescript width="30" height="30"/>
 <img src=https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg alt=visualstudio width="30" height="30"/>
@@ -32,6 +33,9 @@
 <img src=https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg alt=yarn width="30" height="30"/>
 <img src=https://github.com/devicons/devicon/blob/master/icons/rocksdb/rocksdb-plain.svg alt=rocksdb width="30" height="30"/>
 <img src=https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg alt=sequelize width="30" height="30"/>
+<img src=https://avatars.githubusercontent.com/u/983194?s=200&v=4 alt=replit width="30" height="30"/>
+<img src=https://avatars.githubusercontent.com/u/24939410?s=200&v=4 alt=fastify width="30" height="30"/>
+<img src=github alt=https://avatars.githubusercontent.com/u/9919?s=200&v=4 width="30" height="30"/>
 </p>
 
 <hr>
