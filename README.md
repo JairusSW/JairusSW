@@ -55,8 +55,7 @@
 
 <p align="center">
 
-<img width="500" src="https://metrics.lecoq.io/JairusSW" alt="Github Metrics">
-  
+<img width="500" src="https://metrics.lecoq.io/JairusSW?template=classic&isocalendar=1&languages=1&lines=1&notable=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&notable.repositories=false&repositories.featured=JairusSW%2FAir5%2C%20JairusSW%2Fas-json%2C%20JairusSW%2FGameBeam%2C%20JairusSW%2FMultiServer%2C%20JairusSW%2Fkati&config.timezone=America%2FLos_Angeles" alt="Github Metrics">
 <br>
 
 </p>
