@@ -34,7 +34,7 @@
 <a href=https://rocksdb.org/><img src=https://github.com/devicons/devicon/blob/master/icons/rocksdb/rocksdb-plain.svg alt=rocksdb title=RocksDB width="30" height="30"/></a>
 <a href=https://sequelize.org/><img src=https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg alt=sequelize title="Sequelize ORM" width="30" height="30"/></a>
 <a href=https://replit.com/><img src=https://avatars.githubusercontent.com/u/983194?s=200&v=4 alt=replit title=Repl.it width="30" height="30"/></a>
-<a href=https://fastify.org/><img src=https://avatars.githubusercontent.com/u/24939410?s=200&v=4 alt=fastify title=Fastify width="30" height="30"/></a>
+<a href=https://fastify.io/><img src=https://avatars.githubusercontent.com/u/24939410?s=200&v=4 alt=fastify title=Fastify width="30" height="30"/></a>
 <a href=https://github.com/><img src=https://avatars.githubusercontent.com/u/9919?s=200&v=4 alt=github title=GitHub width="30" height="30"/></a>
 </p>
 
