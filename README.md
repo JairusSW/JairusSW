@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-<img src=https://avatars.githubusercontent.com/u/28916798?s=200&v=4 alt=assemblyscript width="30" height="30"/>
+<img src=https://avatars.githubusercontent.com/u/28916798?s=200&v=4 alt=assemblyscript title=AssemblyScript width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/wasmerio/vscode-wasm/008e8f5a33c4dc1444d062bdfc124813f6acbaf4/images/vscode-wasm-logo.svg alt=webassembly width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=javascript width="30" height="30"/>
 <img src=https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg alt=electron width="30" height="30"/>
