@@ -19,11 +19,11 @@
 <a href=https://assemblyscript.org/><img src=https://avatars.githubusercontent.com/u/28916798?s=200&v=4 alt=assemblyscript title=AssemblyScript width="30" height="30"/></a>
 <a href=https://webassembly.org/><img src=https://raw.githubusercontent.com/wasmerio/vscode-wasm/008e8f5a33c4dc1444d062bdfc124813f6acbaf4/images/vscode-wasm-logo.svg alt=webassembly title=WebAssembly/WAT width="30" height="30"/></a>
 <a href=https://javascript.com/><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=javascript title=JavaScript width="30" height="30"/></a>
-<a href=https://electron.org/><img src=https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg alt=electron title=Electron width="30" height="30"/></a>
-<a href=><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg alt=nodejs width="30" height="30"/></a>
-<a href=><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg alt=mongodb width="30" height="30"/></a>
-<a href=><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="30" height="30"/></a>
-<a href=><img src=https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg alt=heroku width="30" height="30"/></a>
+<a href=https://electronjs.org/><img src=https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg alt=electron title=Electron width="30" height="30"/></a>
+<a href=https://nodejs.dev/><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg alt=nodejs title=NodeJS width="30" height="30"/></a>
+<a href=https://mogodb.com/><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg alt=mongodb title=MongoDB width="30" height="30"/></a>
+<a href=https://github.com/><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git title="GitHub CLI" width="30" height="30"/></a>
+<a href=https://heroku.com/><img src=https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg alt=heroku title=Heroku width="30" height="30"/></a>
 <a href=><img src=https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg alt=html5 width="30" height="30"/></a>
 <a href=><img src=https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg alt=css3 width="30" height="30"/></a>
 <a href=><img src=https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg alt=npm width="30" height="30"/></a>
