@@ -16,10 +16,10 @@
 <br>
 
 <p align="center">
-<a href=><img src=https://avatars.githubusercontent.com/u/28916798?s=200&v=4 alt=assemblyscript title=AssemblyScript width="30" height="30"/></a>
-<a href=><img src=https://raw.githubusercontent.com/wasmerio/vscode-wasm/008e8f5a33c4dc1444d062bdfc124813f6acbaf4/images/vscode-wasm-logo.svg alt=webassembly title="Visual Studio Code" width="30" height="30"/></a>
-<a href=><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=javascript title= width="30" height="30"/></a>
-<a href=><img src=https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg alt=electron width="30" height="30"/></a>
+<a href=https://assemblyscript.org/><img src=https://avatars.githubusercontent.com/u/28916798?s=200&v=4 alt=assemblyscript title=AssemblyScript width="30" height="30"/></a>
+<a href=https://webassembly.org/><img src=https://raw.githubusercontent.com/wasmerio/vscode-wasm/008e8f5a33c4dc1444d062bdfc124813f6acbaf4/images/vscode-wasm-logo.svg alt=webassembly title=WebAssembly/WAT width="30" height="30"/></a>
+<a href=https://javascript.com/><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=javascript title=JavaScript width="30" height="30"/></a>
+<a href=https://electron.org/><img src=https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg alt=electron title=Electron width="30" height="30"/></a>
 <a href=><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg alt=nodejs width="30" height="30"/></a>
 <a href=><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg alt=mongodb width="30" height="30"/></a>
 <a href=><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="30" height="30"/></a>
