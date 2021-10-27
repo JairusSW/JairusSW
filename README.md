@@ -4,15 +4,16 @@
 <h3 align="center">I'm a self taught teen developer with like 6 years of experience.</h3>
 <br>
 
-<br>
-<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=JairusSW" alt="JairusSW"/> </p>  </p>
-<br>
-
 <p align="center">
  <a target="_blank" href=https://github.com/JairusSW>
   <img src=https://img.shields.io/github/followers/JairusSW?label=follow%20me&style=social />
   &nbsp;
 </a>
+
+<br>
+<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=JairusSW" alt="JairusSW"/> </p>  </p>
+<br>
+
 </p>
 
 <hr>
