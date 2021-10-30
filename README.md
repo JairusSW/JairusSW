@@ -1,7 +1,7 @@
 <h3 align="center">Hello, there! 👋</h3>
 
 <br>
-<h3 align="center">I'm a self taught teen developer with like 6 years of experience.</h3>
+<h3 align="center">I'm a self taught teen developer with 6 years of experience.</h3>
 <br>
 
 <p align="center">
