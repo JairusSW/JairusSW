@@ -1,4 +1,4 @@
-<h3 align="center">Hello, there! 👋</h3>
+<h3 align="center">Hello, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
 
 <br>
 <h3 align="center">I'm a self taught teen developer with 6 years of experience.</h3>
