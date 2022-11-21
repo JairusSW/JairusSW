@@ -1,29 +1,3 @@
-MaximumLiberty, this is how you get on my SMP :)
-And, ye. That's a pic of my face 
-
-1. Download fabric
-https://fabricmc.net/use/installer/
-
-2. Install fabric `1.19.2`. Click the "install" button
-![image](https://user-images.githubusercontent.com/60235514/202580531-f9babe8c-fb66-42a9-be3b-8970013cdae3.png)
-
-3. Boot up the minecraft launcher, select "Installations" and click the folder icon
-![image](https://user-images.githubusercontent.com/60235514/202580631-0b32f478-edc0-41f0-b22d-693858c9a2f1.png)
-
-4. Go into the mods folder. If it is not there, create it
-![image](https://user-images.githubusercontent.com/60235514/202580662-46b966f9-bb0f-4452-9bcf-9aa26085b347.png)
-
-5. Download AutoModpack, Delete all the mods previously inside and place the file Inside of your mods folder
-https://cdn.discordapp.com/attachments/1037568176852045885/1038144094993666078/AutoModpack-1.19.x.jar
-
-6. Now boot Minecraft `1.19.2` and join the server IP `66.172.33.52`
-
-8. It will say "FAPI Updated!". Click okay and reboot it.
-
-10. Select the "Download and don't show again" button, close Minecraft, and reboot.
-
-9. Join!!!
-
 <h3 align="center">Hello, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
 
 <br>
