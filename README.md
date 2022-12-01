@@ -2,6 +2,7 @@
 
 <br>
 <h3 align="center">I'm a self taught teen developer with 6 years of experience.</h3>
+<h1 align="center">Currently learning Compiler Design @ Stanford</h1>
 <br>
 
 <p align="center">
