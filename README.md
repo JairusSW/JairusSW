@@ -1,8 +1,8 @@
 <h3 align="center">Hello, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
 
 <br>
-<h3 align="center">I'm a self taught teen developer with 6 years of experience.</h3>
-<h5 align="center">Currently learning Compiler Design @ Stanford</h5>
+<h3 align="center">I'm a self taught 16 year old developer.</h3>
+<h5 align="center">Currently learning Compiler Design from Stanford's Online courses</h5>
 <h5 align="center">Currently making a profiler and monitor for AssemblyScript and/or WebAssembly bytecode</h5>
 <br>
 
