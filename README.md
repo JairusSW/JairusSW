@@ -55,14 +55,13 @@
 <a href=https://dotnet.microsoft.com/languages/csharp><img src=https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg alt=csharp title=C# width="30" height="30"/></a>
 <a href=https://java.org/><img src=https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg alt=java title=Java width="30" height="30"/></a>
 <a href=https://rust-lang.org/><img src=https://raw.githubusercontent.com/JairusSW/JairusSW/main/img/rust.svg alt=rust title=Rust width="30" height="30"/></a>
-<a href=https://webassembly.org/><img src=https://raw.githubusercontent.com/wasmerio/vscode-wasm/008e8f5a33c4dc1444d062bdfc124813f6acbaf4/images/vscode-wasm-logo.svg alt=wat title=WebAssembly width="30" height="30"/></a>
+
 </p>
 
 <br><br>
 
 <p align="center">
 
-<img width="500" src="https://metrics.lecoq.io/JairusSW?template=classic&isocalendar=1&languages=1&lines=1&notable=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&notable.repositories=false&repositories.featured=JairusSW%2FAir5%2C%20JairusSW%2Fas-json%2C%20JairusSW%2FGameBeam%2C%20JairusSW%2FMultiServer%2C%20JairusSW%2Fkati&config.timezone=America%2FLos_Angeles" alt="Github Metrics">
 <br>
 
 </p>
