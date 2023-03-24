@@ -2,8 +2,7 @@
 
 <br>
 <h3 align="center">I'm a self taught 16 year old developer.</h3>
-<h5 align="center">Learning Compiler Design from Stanford's Online courses</h5>
-<h5 align="center">Making a library which generates bindings to allow for asynchronous APIs to be called from AssemblyScript</h5>
+<h5 align="center">Currently, I'm writing a compiler for a language which compiles to WebAssembly</h5>
 <br>
 
 <p align="center">
