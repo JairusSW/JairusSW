@@ -18,7 +18,7 @@
 </p>
 
 <hr>
-<h3 align="center">Some of my fav tools ⬇️</h3>
+<h3 align="center">And here are some tools I enjoy using</h3>
 <br>
 
 <p align="center">
@@ -45,14 +45,4 @@
 <a href=https://dotnet.microsoft.com/languages/csharp><img src=https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg alt=csharp title=C# width="30" height="30"/></a>
 <a href=https://java.org/><img src=https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg alt=java title=Java width="30" height="30"/></a>
 <a href=https://rust-lang.org/><img src=https://raw.githubusercontent.com/JairusSW/JairusSW/main/img/rust.svg alt=rust title=Rust width="30" height="30"/></a>
-</p>
-
-<hr>
-<h3 align="center">Stuff I'm learning ⬇️</h3>
-<br>
-
-<p align="center">
-<a href=https://threejs.org/><img src=https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg alt=threejs title=Three.js width="30" height="30"/></a>
-<a href=https://arduino.cc/><img src=https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg alt=arduino title=Arduino width="30" height="30"/></a>
-
 </p>
