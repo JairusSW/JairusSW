@@ -1,5 +1,4 @@
 <h3 align="center">Whats up, bro</h3>
-
 <br>
 <h3 align="center">Life is awesome! Biking, friends, and beaches are my thing 👌</h3>
 <h4 align="center">Been coding since I started messing with a Commodore 64 as a 10 year old<h4>
