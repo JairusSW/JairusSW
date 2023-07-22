@@ -1,8 +1,9 @@
-<h3 align="center">Hello, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
+<h3 align="center">Whats up, bro</h3>
 
 <br>
-<h3 align="center">I'm a self taught 16 year old developer.</h3>
-<h5 align="center">Currently, I'm writing a compiler for a language which compiles to WebAssembly</h5>
+<h3 align="center">I'm Jairus and I love life. Biking, friends, and beaches are my thing 👌</h3>
+<h4 align="center">Been coding since I started messing with a Commodore 64 as a 10 year old<h4>
+<h4 align="center">Planning to get my bachelors in CS and then finish my masters at MIT</h4>
 <br>
 
 <p align="center">
