@@ -14,6 +14,7 @@ I live in the beautiful state of Washington near Seattle. Dreaming of climbing M
 <a href=https://www.github.com/JairusSW/><img src=https://raw.githubusercontent.com/JairusSW/JairusSW/main/github.svg alt=GitHub title="GitHub - JairusSW" width="20" height="20"/></a>
 <a href=https://open.spotify.com/user/d9qekur5in0vg8eri0k3fs0ia/><img src=https://raw.githubusercontent.com/JairusSW/JairusSW/main/spotify.svg alt=Spotify title="Spotify - JairusSW" width="20" height="20"/></a>
 <a href=https://www.instagram.com/jairussw/><img src=https://raw.githubusercontent.com/JairusSW/JairusSW/main/instagram.svg alt=Instagram title="Instagram - JairusSW" width="20" height="20"/></a>
+<a href=https://www.discord.com/users/600700584038760448><img src=https://raw.githubusercontent.com/JairusSW/JairusSW/main/discord.svg alt=Instagram title="Discord - JairusSW" width="20" height="20"/></a>
 </p>
 
 <p align="center">
