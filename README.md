@@ -9,6 +9,8 @@
 I live in the beautiful state of Washington near Seattle. Dreaming of climbing Mt. Rainer some day.<br>I'm in love with life and am a Christian.</h5>
 <br>
 
+[<img alt="NPM" width="40px" src="https://raw.githubusercontent.com/JairusSW/JairusSW/main/npm.svg" />](https://www.npmjs.com/~jairussw)
+
 <p align="center">
  <a target="_blank" href=https://github.com/JairusSW>
   <img src=https://img.shields.io/github/followers/JairusSW?label=follow%20me&style=social />
