@@ -6,7 +6,7 @@
 <br>
 
 <br>
-I live in the beautiful state of Washington near Seattle. Dreaming of climbing Mt. Rainer some day.<br>I'm in love with life and am a Christian.</h5>
+I live in the beautiful state of Washington near Seattle. Dreaming of climbing Mt. Rainer some day.<br>I'm in love with life and am a Christian.<br><br>Working as a Software Engineer at Steer Finance</h5>
 <br>
 
 <p align="center">
