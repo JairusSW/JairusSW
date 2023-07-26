@@ -1,5 +1,5 @@
 <h3 align="center">Whats up, bro 😄</h3>
-<h5 align="center">- I'm on hiatus to hang with friends -</h5>
+<h5 align="center">- I'm not a no-lifer -</h5>
 
 <h3 align="center">About me</h3>
 <h5 align="center">I started coding as a 10 year old when I started messing around with old tech. It has been one of my passions since.<br>Along with coding, I love mountain biking, hiking for spectacular views, and hanging out with good friends.
