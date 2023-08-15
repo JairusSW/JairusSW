@@ -2,7 +2,7 @@
 <h5 align="center">- I'm livin' the life -</h5>
 
 <h3 align="center">About me</h3>
-<h5 align="center">I started coding as a 10 year old when I started messing around with old tech. It has been one of my passions since.<br>Along with coding, I love mountain biking, hiking for spectacular views, and hanging out with good friends.
+<h5 align="center">I'm a High School Senior who started coding as a 10 year old when I started messing around with old tech. It has been one of my passions since.<br>Along with coding, I love mountain biking, hiking for spectacular views, and hanging out with good friends.
 <br>
 
 <br>
