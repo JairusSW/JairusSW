@@ -6,7 +6,8 @@
 <br>
 
 <br>
-I live in the beautiful state of Washington near Seattle. Dreaming of climbing Mt. Rainer some day.<br>I'm in love with life and am a Christian.<br><br>Working as a Software Engineer at Steer Finance</h5>
+I live in the beautiful state of Washington near Seattle. Dreaming of climbing Mt. Rainer some day.<br><br>I'm a Christian<br>I abhor repulsive code<br>WASM goes brr<br><br>Working as a Software Engineer at Steer Finance<br><br></h5>
+<p align="center"><q><i>When in doubt, follow the way of the <a href="https://grugbrain.dev">Grug</a></i></q></p>
 <br>
 
 <p align="center">
