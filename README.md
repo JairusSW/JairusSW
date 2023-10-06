@@ -6,7 +6,7 @@
 <br>
 
 <br>
-I live in the beautiful state of Washington near Seattle. Dreaming of climbing mountains.<br><br>Current GPA: 3.96/4.00<br>I abhor repulsive code<br>WASM goes brr<br><br>Working as a Software Engineer at Steer Finance<br><br></h5>
+I live in the beautiful state of Washington near Seattle. Dreaming of climbing mountains.<br><br>Current GPA: 3.96/4.00<br><br>Working as a Software Engineer at Steer Finance<br><br></h5>
 <p align="center"><q><i>When in doubt, follow the way of the <a href="https://grugbrain.dev">Grug</a></i></q></p>
 <br>
 
