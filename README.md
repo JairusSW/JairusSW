@@ -37,21 +37,18 @@ struct prototype_one = {
  age: 17,
  education: {
   level: "High School",
-  status: "Almost Graduated",
-  gpa: 3.8 +- Math.rand(-0.2, 0.2),
+  gpa: 3.8
   role: Roles.Valedictorian,
   languages: [
    "Latin",
    "Greek",
    "Spanish",
    "English"
-  ],
-  studies: false,
-  gets_good_grades: true
+  ]
  },
  traits: {
   personality: {
-   type: ["friendly","easygoing","thoughtful","quiet"]
+   type: ["friendly", "easygoing", "thoughtful", "quiet"]
   },
   activities: [
    "mountain biking",
