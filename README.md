@@ -25,7 +25,7 @@
 # Written in my own language, Zep
 
 enum Roles = {
- Principle = 1,
+ Principal = 1,
  Teacher = 2,
  Valedictorian = 3,
  Student = 4,
