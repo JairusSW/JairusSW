@@ -29,7 +29,8 @@ enum Roles = {
  Teacher = 2,
  Valedictorian = 3,
  Student = 4,
- Dropout = 5
+ Honors = 5,
+ Dropout = 6
 }
  
 struct prototype_one = {
@@ -38,7 +39,7 @@ struct prototype_one = {
  education: {
   level: "High School",
   gpa: 3.8
-  role: Roles.Valedictorian,
+  role: Roles.Honors,
   languages: [
    "Latin",
    "Greek",
