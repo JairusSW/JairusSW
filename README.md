@@ -21,4 +21,7 @@ I'm an Open-Source dev.
 </p>
 <h6 align="center">
 Projects below!
- </h6>
+</h6>
+<h3 align="center">
+↧
+</h3>
