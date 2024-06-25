@@ -1,9 +1,9 @@
 <h3 align="center">
-<pre>
 I'm an Open-Source dev.
-FOSS Forever <3
-</pre>
 </h3>
+<h6 align="center">I ❤️ FOSS
+<br>
+<br>-</h6>
 
 <p align="center">
 <a href=https://www.npmjs.com/~jairussw/><img src=https://raw.githubusercontent.com/JairusSW/JairusSW/main/npm.svg alt=NPM title="NPM - JairusSW" width="20" height="20"/></a>
@@ -19,3 +19,6 @@ FOSS Forever <3
  </a>
  <p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=JairusSW" alt="JairusSW"/></p>
 </p>
+<h6 align="center">
+Projects below!
+ </h6>
