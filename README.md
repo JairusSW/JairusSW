@@ -1,7 +1,8 @@
 <h3 align="center">
-yo
+I'm a oss dev
 </h3>
-<h6 align="center">I ❤️ FOSS
+<h6 align="center">i 💌 foss
+<h6 align="center">(and mountain biking)<br>(oh and snowboarding too)<br>(aand hiking too)<br>(pretty much everything)
 <br>
 <br>-</h6>
 
