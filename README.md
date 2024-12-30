@@ -1,5 +1,5 @@
 <h3 align="center">
-I'm an Open-Source dev.
+yo
 </h3>
 <h6 align="center">I ❤️ FOSS
 <br>
