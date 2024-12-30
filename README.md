@@ -1,6 +1,7 @@
 <h3 align="center">
 I'm a oss dev
 </h3>
+<h6 align="center">i'm 18, grad school
 <h6 align="center">i 💌 foss
 <h6 align="center">(and mountain biking)<br>(oh and snowboarding too)<br>(aand hiking too)<br>(pretty much everything)
 <br>
