@@ -1,6 +1,6 @@
 <h3 align="center">
 Hey, I'm Jairus</h3>
-<h6 align="center">i'm 18, grad school
+<h6 align="center">i'm 18 and working on my master's
 <h6 align="center">i 💌 foss
 <h6 align="center">(and mountain biking, snowboarding, ect..)<br>(and hiking and fishing too)
 <br>
