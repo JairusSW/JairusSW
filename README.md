@@ -10,29 +10,17 @@
 <p align="center">-</p>
 
 <p align="center">
-  <a href="https://github.com/JairusSW"><span>
-    <img src="https://raw.githubusercontent.com/JairusSW/JairusSW/main/github.svg" width="20" height="20" />
-  </span></a>
+  <a href="https://github.com/JairusSW"><img src="https://raw.githubusercontent.com/JairusSW/JairusSW/main/github.svg" width="20" height="20" /></span></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/jairussw/"><span>
-    <img src="https://raw.githubusercontent.com/JairusSW/JairusSW/main/linkedin.svg" width="20" height="20" />
-  </span></a>
+  <a href="https://www.linkedin.com/in/jairussw/"><span><img src="https://raw.githubusercontent.com/JairusSW/JairusSW/main/linkedin.svg" width="20" height="20" /></span></a>
   &nbsp;
-  <a href="https://www.npmjs.com/~jairussw"><span>
-    <img src="https://raw.githubusercontent.com/JairusSW/JairusSW/main/npm.svg" width="20" height="20" />
-  </span></a>
+  <a href="https://www.npmjs.com/~jairussw"><span><img src="https://raw.githubusercontent.com/JairusSW/JairusSW/main/npm.svg" width="20" height="20" /></span></a>
   &nbsp;
-  <a href="https://dev.to/jairussw"><span>
-    <img src="https://raw.githubusercontent.com/JairusSW/JairusSW/main/devdotto.svg" width="20" height="20" />
-  </span></a>
+  <a href="https://dev.to/jairussw"><span><img src="https://raw.githubusercontent.com/JairusSW/JairusSW/main/devdotto.svg" width="20" height="20" /></span></a>
   &nbsp;
-  <a href="https://discord.com/users/600700584038760448"><span>
-    <img src="https://raw.githubusercontent.com/JairusSW/JairusSW/main/discord.svg" width="20" height="20" />
-  </span></a>
+  <a href="https://discord.com/users/600700584038760448"><span><img src="https://raw.githubusercontent.com/JairusSW/JairusSW/main/discord.svg" width="20" height="20" /></span></a>
   &nbsp;
-  <a href="mailto:me@jairus.dev"><span>
-    <img src="https://raw.githubusercontent.com/JairusSW/JairusSW/main/protonmail.svg" width="20" height="20" />
-  </span></a>
+  <a href="mailto:me@jairus.dev"><span><img src="https://raw.githubusercontent.com/JairusSW/JairusSW/main/protonmail.svg" width="20" height="20" /></span></a>
 </p>
 
 <p align="center">
