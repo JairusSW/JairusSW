@@ -1,28 +1,49 @@
-<h3 align="center">
-Hey, I'm Jairus</h3>
-<h6 align="center">i'm 19 and working on a combined BA and MS
-<h6 align="center">i 💌 foss
-<h6 align="center">(and mountain biking, snowboarding, ect..)<br>(and hiking and fishing too)
-<br>
-<br>-</h6>
+<h3 align="center">Hey, I'm Jairus</h3>
+
+<h6 align="center">i'm 19 and working on a combined BA and MS</h6>
+<h6 align="center">i 💌 foss</h6>
+<h6 align="center">
+  (and mountain biking, snowboarding, etc..)<br>
+  (and hiking and fishing too)
+</h6>
+
+<p align="center">-</p>
 
 <p align="center">
-<a href=https://www.npmjs.com/~jairussw/><img src=https://raw.githubusercontent.com/JairusSW/JairusSW/main/npm.svg alt=NPM title="NPM - JairusSW" width="20" height="20"/></a>
-<a href=https://www.github.com/JairusSW/><img src=https://raw.githubusercontent.com/JairusSW/JairusSW/main/github.svg alt=GitHub title="GitHub - JairusSW" width="20" height="20"/></a>
-<a href=https://open.spotify.com/user/d9qekur5in0vg8eri0k3fs0ia/><img src=https://raw.githubusercontent.com/JairusSW/JairusSW/main/spotify.svg alt=Spotify title="Spotify - JairusSW" width="20" height="20"/></a>
-<a href=https://www.instagram.com/jairussw/><img src=https://raw.githubusercontent.com/JairusSW/JairusSW/main/instagram.svg alt=Instagram title="Instagram - JairusSW" width="20" height="20"/></a>
-<a href=https://www.discord.com/users/600700584038760448><img src=https://raw.githubusercontent.com/JairusSW/JairusSW/main/discord.svg alt=Instagram title="Discord - JairusSW" width="20" height="20"/></a>
+  <a href="https://github.com/JairusSW">
+    <img src="https://raw.githubusercontent.com/JairusSW/JairusSW/main/github.svg" width="20" height="20" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/jairussw/">
+    <img src="https://raw.githubusercontent.com/JairusSW/JairusSW/main/linkedin.svg" width="20" height="20" />
+  </a>
+  &nbsp;
+  <a href="https://www.npmjs.com/~jairussw">
+    <img src="https://raw.githubusercontent.com/JairusSW/JairusSW/main/npm.svg" width="20" height="20" />
+  </a>
+  &nbsp;
+  <a href="https://dev.to/jairussw">
+    <img src="https://raw.githubusercontent.com/JairusSW/JairusSW/main/devdotto.svg" width="20" height="20" />
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/600700584038760448">
+    <img src="https://raw.githubusercontent.com/JairusSW/JairusSW/main/discord.svg" width="20" height="20" />
+  </a>
+  &nbsp;
+  <a href="mailto:me@jairus.dev">
+    <img src="https://raw.githubusercontent.com/JairusSW/JairusSW/main/protonmail.svg" width="20" height="20" />
+  </a>
 </p>
- 
+
 <p align="center">
- <a target="_blank" href=https://github.com/JairusSW>
-  <img src=https://img.shields.io/github/followers/JairusSW?label=follow%20me&style=social />
- </a>
- <p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=JairusSW" alt="JairusSW"/></p>
+  <a target="_blank" href="https://github.com/JairusSW">
+    <img src="https://img.shields.io/github/followers/JairusSW?label=follow%20me&style=social" />
+  </a>
 </p>
-<h6 align="center">
-Projects below!
-</h6>
-<h3 align="center">
-↧
-</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JairusSW" />
+</p>
+
+<h6 align="center">Projects below!</h6>
+<h3 align="center">↧</h3>
