@@ -7,6 +7,10 @@
   (and hiking and fishing too)
 </h6>
 
+<h6 align="center">
+  I sometimes <a href="https://blog.jairus.dev/">blog</a>
+</h6>
+
 <p align="center">-</p>
 
 <p align="center">
