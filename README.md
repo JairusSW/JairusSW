@@ -1,6 +1,6 @@
 <h3 align="center">Hey, I'm Jairus</h3>
 
-<h6 align="center">someone told me to go read a book.<br>i read a book on C</h6>
+<h6 align="center">someone told me to go read a book..<br>i read a book on c,<br>and the rest is history.</h6>
 <h6 align="center">i 💌 foss</h6>
 <h6 align="center">
   (and mountain biking, snowboarding, etc..)<br>
