@@ -9,6 +9,8 @@
 
 <h6 align="center">
   I sometimes <a href="https://blog.jairus.dev/">blog</a>
+  
+  cool <a href="https://jairus.dev/">website</a> too
 </h6>
 
 <p align="center">-</p>
